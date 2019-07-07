@@ -29,7 +29,7 @@ class Book
   end
 
   def genre
-    @gendre
+    @genre
   end
 
   def turn_page
