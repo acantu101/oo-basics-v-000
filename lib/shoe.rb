@@ -10,6 +10,6 @@ class Shoe
 
   def cobble
     @condition = "new"
-    puts "Your shoe is good as #{@condition}!"
+    puts "Your shoe is as good as #{@condition}!"
   end
 end
